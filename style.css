@@ -1,0 +1,11 @@
+body{
+    border: 2px dashed blue;
+    place-items: center;
+    display: grid;
+    height: 100vh;              
+    margin: 0;
+    display: flexbox;
+
+    background-color: lightgrey;
+
+}
